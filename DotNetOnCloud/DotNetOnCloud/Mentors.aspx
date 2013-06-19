@@ -14,7 +14,7 @@
         with your project, we assign them to you. Typically, a set of five to six trainees get assigned to each mentor.
     </p>
     <p>
-        Mentors from ITS who have registered with us are as follows:
+        Mentors from ITS who have registered with us are as follows(Note this list is not exhaustive):
     </p>
     <asp:GridView ID="gvMentorList" runat="server">
 </asp:GridView>
